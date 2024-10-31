@@ -1,2 +1,3 @@
 Contribuidores:
-Menor Fernández Yenny
+-Menor Fernández Yenny
+-Díaz Bravo Jherson Kelvin
